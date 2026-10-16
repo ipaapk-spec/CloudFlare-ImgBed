@@ -189,3 +189,5 @@ Thank you to everyone who has contributed code, documentation, ideas, and feedba
 - **Upstream project**: [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
 
 CloudFlare ImgBed evolved from Telegraph-Image. Thanks to its original authors and contributors.
+
+<!-- deployed via CI test 2026-10-16 -->
