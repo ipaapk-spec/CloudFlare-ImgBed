@@ -199,3 +199,5 @@ Read the [contribution guide](CONTRIBUTING.md) for repository selection, PR targ
 CloudFlare ImgBed evolved from Telegraph-Image. Thanks to its original authors and contributors.
 
 <!-- deployed via CI test 2026-10-16 -->
+
+<!-- verify single CI pipeline 2026-10-16 -->
